@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Exoclibur</h1>
 <h3 align="center">A Junior Programmer from Indonesia</h3>
-<img align="right" alt="Imagee" width="400" src="https://4.bp.blogspot.com/-WdJllxygPaw/WcHPnFUHRBI/AAAAAAAA77E/asY6yJdHqBoGac6YQUSfcPjNT37JHbdqgCKgBGAs/s1600/Omake%2BGif%2BAnime%2B-%2BNew%2BGame%2521%2521%2B-%2BEpisode%2B11%2B-%2BNene%2BPoints%2Bat%2BNaru%2527s%2BBad%2BCode.gif">
+<img align="center" alt="Imagee" width="400" src="https://4.bp.blogspot.com/-WdJllxygPaw/WcHPnFUHRBI/AAAAAAAA77E/asY6yJdHqBoGac6YQUSfcPjNT37JHbdqgCKgBGAs/s1600/Omake%2BGif%2BAnime%2B-%2BNew%2BGame%2521%2521%2B-%2BEpisode%2B11%2B-%2BNene%2BPoints%2Bat%2BNaru%2527s%2BBad%2BCode.gif">
 	
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exoclb&label=Profile%20views&color=0e75b6&style=flat" alt="exoclb" /> </p>
