@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/exoclb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="exoclb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the exoclibur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the exoclibur" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/theexoclibur7485 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the exoclibur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
