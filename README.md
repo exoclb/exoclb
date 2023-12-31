@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/exoclb" target="blank"><img src="https://img.shields.io/twitter/follow/exoclb?logo=twitter&style=for-the-badge" alt="exoclb" /></a> </p>
 
-- 🔭 I’m currently working on **Sistem Informasi Tracking Disposisi-Surat**
+- 🔭 I’m currently **Learning**
 
 - ⚡ Fun fact **I'm Dump**
 
